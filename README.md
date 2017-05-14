@@ -4,6 +4,7 @@ Auto Sketch Artist: draw an edge map of the input image in real-time
 ### Run the app
 - navigate to: bin/x86/release 
 - Execute ImageOutline.exe
+### Sample Run
 
 ### Development details
 #### draw_outline code
@@ -15,7 +16,7 @@ Auto Sketch Artist: draw an edge map of the input image in real-time
 #### image outline code
 - it is the c# form application for user interface
 - it calls draw_outline dll to extract image contours
-- it then draw these contours onto the output ilage canvas in real-time
+- it then draw these contours onto the output image canvas in real-time
 - Dependencies include:
     - libraries for accessing webcam drivers (currently used AForge.NET Framework-2.2.5-(libs only)) 
     - emguCV (currently used libemgucv-windows-universal-3.0.0.2157)
