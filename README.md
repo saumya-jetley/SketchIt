@@ -6,7 +6,7 @@ Auto Sketch Artist: draw an edge map of the input image interactively
 - navigate to: bin/x86/release 
 - Execute ImageOutline.exe
 ### Sample Run
-![Edge map for selected picture](https://github.com/saumya-jetley/SketchIt/blob/master/Sample_Image.png)
+![Edge map for selected picture](https://github.com/saumya-jetley/SketchIt/blob/master/Sample_Image_stages.png)
 ### Development details
 #### draw_outline code
 - it is used to extract ordered contours from input image
