@@ -5,4 +5,9 @@ Sketches an edge map of the input image
 - navigate to: bin/x86/release 
 - Execute ImageOutline.exe
 
+### Development dependencies
+- openCV
+- emguCV
+- 
+
 
