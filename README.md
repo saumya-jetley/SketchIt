@@ -1,5 +1,5 @@
 # SketchIt
-Auto Sketch Artist: draw an edge map of the input image in real-time
+Auto Sketch Artist: draw an edge map of the input image interactively
 
 ### Run the app
 - navigate to: bin/x86/release 
