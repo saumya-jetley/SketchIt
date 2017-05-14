@@ -2,6 +2,7 @@
 Auto Sketch Artist: draw an edge map of the input image interactively
 
 ### Run the app
+- *Compiled for VS2012, .net framwork 4 and tested on windows7*
 - navigate to: bin/x86/release 
 - Execute ImageOutline.exe
 ### Sample Run
